@@ -1,0 +1,13 @@
+﻿{
+    "pack": {
+        "pack_format": 5,
+        "description": "adds weeblish as a language~"
+    },
+	"language":{
+		"en_wb":{
+			"name":"weeblish",
+			"region":"world",
+			"bidirectional":false
+		}
+	}
+}
